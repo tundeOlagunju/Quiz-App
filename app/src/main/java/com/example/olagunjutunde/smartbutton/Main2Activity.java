@@ -25,11 +25,11 @@ public class Main2Activity extends AppCompatActivity {
         TextView resultView =(TextView) findViewById(R.id.result);
         resultView.setText(quizScore);
 
-        TextView youransView =(TextView) findViewById(R.id.yourans);
-        youransView.setText(quizResult);
+        TextView yourAnswerView =(TextView) findViewById(R.id.yourans);
+        yourAnswerView.setText(quizResult);
 
-        TextView correctansView =(TextView) findViewById(R.id.correctans);
-        correctansView.setText("\n1.yes"+"\n2.yes"+"\n3.no"+"\n4.yes" +"\n5.yes");
+        TextView correctAnswerView =(TextView) findViewById(R.id.correctans);
+        correctAnswerView.setText("\n1.yes"+"\n2.yes"+"\n3.no"+"\n4.yes" +"\n5.yes");
 
 
 
