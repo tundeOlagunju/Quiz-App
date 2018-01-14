@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartButton</string>
+    <string name="message_txt">Click me boss!</string>
+    <string name="button_txt">Hello</string>
+</resources>
